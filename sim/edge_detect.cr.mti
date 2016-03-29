@@ -1,0 +1,15 @@
+D:/FPGA/altera13.0project/edge_detect/version_1/edge_detect.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/edge_detect/version_1/edge_detect.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module edge_detect
+
+Top level modules:
+	edge_detect
+
+} {} {}} D:/FPGA/altera13.0project/edge_detect/version_1/edge_detect_tb.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/edge_detect/version_1/edge_detect_tb.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module edge_detect_tb
+
+Top level modules:
+	edge_detect_tb
+
+} {} {}}
